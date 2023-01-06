@@ -31,7 +31,6 @@ of my presentation.
 
 ## 1. Intro: Brainstorming Month Proposal 2023
 
-(pic)
 ![Alt Image text](Data/intro.jpg)
 
 Liberty Mutual is celebrating the company's traditional event in January, Brainstorming Month, to gather and explore new ideas of how to make the company better 
@@ -39,7 +38,7 @@ in any way.
 
 ## 2. Objectives
 
-(pic)
+![Alt Image text](Data/objectives.jpg)
 
 First, I will start with one thing that we can do better from my research.
 Second, I will show the data analysis.
@@ -48,7 +47,7 @@ Last, I would like to talk about what more I want to accomplish and what’s goi
 
 ## 3. How do we win more customer and what can we do better?
 
-(pic)
+![Alt Image text](Data/how to win more customers.jpg)
 
 How to win more customers has always been the biggest challenge for any company.  We have done so much already.  What else can we do?
 
@@ -61,7 +60,7 @@ By saying that, we want to show customers we are on their side.  But, how can we
 Reviewing how we provide quotes today, does that really line up with our slogan? Hum.....
 That got me thinking about how we can do this from customer's perspective, and that’s the inspiration of my proposal. 
 
-(pic)
+![Alt Image text](Data/what can we do better.jpg)
 
 This is the frontpage of our website.  Just like our competitors.  We start with having customers fill out a questionnaire, and, at the end we tell them 
 how much we are going to charge them.
@@ -70,7 +69,7 @@ So the question is, what can we do that’s different, unique and outstanding?
 
 ## 4. Data analysis
 
-(pic)
+![Alt Image text](Data/data analysis.jpg)
 
 I took the car accident datasets reported by Chicago Police Dept in the past 6 years, and here is the quick summary for it.
 The average number of cases per year is around 113K. That’s 311 cases per day.
@@ -85,7 +84,7 @@ From the Crash hour distribution, without doubt, the peak reflects the rush hour
 With the data I have, I came up with the idea of publishing a simulation model on our website that can help customers with the process of customizing their 
 insurance packages.  So they will only pay what they need!  And here is the brief introduction to my simulation model.
 
-(pic)
+![Alt Image text](Data/simulation model 1.jpg)
 
 For the first glance, it looks very similar to the quote process on our website, doesn’t it?  Well, the main difference is, within my simulation model, 
 customers are the one who’s driving and taking all the controls.  In the simulation model, they will be more proactive and interactive.  I want the 
@@ -95,22 +94,22 @@ This is how it works.  First, customers need to set up the driver, vehicle and e
 
 (Note that all the input items required here are actually the features in my models.)
 
-(pic)
+![Alt Image text](Data/simulation model 2.jpg)
 
 For example, James, a 31 year old man living in 60612, driving a 2009 Chevrolet Tahoe, has setted up the environment that mirrors most of his days.
 
-(pic)
+![Alt Image text](Data/simulation model 3.jpg)
 
 Down the road, if an accident happens. Within the simulation model, I could predict the damage to his vehicle based on the real data from the past.  
 Meanwhile, I will also plug in some resources and  information to pre-educate customers what to do in the situation.
 
 (Note the predicted damage is the target(y) in my models.)
 
-(pic)
+![Alt Image text](Data/simulation model 4.jpg)
 
 As a result, my model generates the prediction that James’ predicted damage is $501 and more, with 91.7% accuracy.
 
-(pic)
+![Alt Image text](Data/simulation model 5.jpg)
 
 Now with knowing the predicted damage, it will be easier for James to decide how to customize his own insurance package, considering his risk appetite 
 and preference.  Is he more aggressive or more conservative with taking on uncertainties?  If James is willing to pay up to 500 out of pocket to fix 
@@ -118,7 +117,7 @@ his car, and he knows the predicted damage is more than 500, then, for sure, $50
 
 ## 6. Conclusion and behind the scenes
 
-(pic)
+![Alt Image text](Data/conclusion.jpg)
 
 #### Conclusion
 Within my simulation model, customers will be able to insert their real life and personal risk appetite into insurance quote process.  They would feel 
