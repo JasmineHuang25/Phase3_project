@@ -47,7 +47,7 @@ Last, I would like to talk about what more I want to accomplish and what’s goi
 
 ## 3. How do we win more customer and what can we do better?
 
-![Alt Image text](Data/how to win more customers.jpg)
+![Alt Image text](Data/how_to_win_more_customer.jpg)
 
 How to win more customers has always been the biggest challenge for any company.  We have done so much already.  What else can we do?
 
