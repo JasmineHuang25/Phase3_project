@@ -51,16 +51,16 @@ Last, I would like to talk about what more I want to accomplish and what’s goi
 
 How to win more customers has always been the biggest challenge for any company.  We have done so much already.  What else can we do?
 
-#### Should we buy more commercials?
+### Should we buy more commercials?
 Everyone loves our Limu Emu and Doug.  Yes, we shall buy more commercials if budget allows it.  
 
-#### Should we have a better slogan?
+### Should we have a better slogan?
 We told customers, “only pay what you need.”
 By saying that, we want to show customers we are on their side.  But, how can we make customers feel our passion?
 Reviewing how we provide quotes today, does that really line up with our slogan? Hum.....
 That got me thinking about how we can do this from customer's perspective, and that’s the inspiration of my proposal. 
 
-![Alt Image text](Data/what can we do better.jpg)
+![Alt Image text](Data/what_can_we_do_better.jpg)
 
 This is the frontpage of our website.  Just like our competitors.  We start with having customers fill out a questionnaire, and, at the end we tell them 
 how much we are going to charge them.
@@ -69,7 +69,7 @@ So the question is, what can we do that’s different, unique and outstanding?
 
 ## 4. Data analysis
 
-![Alt Image text](Data/data analysis.jpg)
+![Alt Image text](Data/data_analysis.jpg)
 
 I took the car accident datasets reported by Chicago Police Dept in the past 6 years, and here is the quick summary for it.
 The average number of cases per year is around 113K. That’s 311 cases per day.
@@ -84,7 +84,7 @@ From the Crash hour distribution, without doubt, the peak reflects the rush hour
 With the data I have, I came up with the idea of publishing a simulation model on our website that can help customers with the process of customizing their 
 insurance packages.  So they will only pay what they need!  And here is the brief introduction to my simulation model.
 
-![Alt Image text](Data/simulation model 1.jpg)
+![Alt Image text](Data/simulation_1.jpg)
 
 For the first glance, it looks very similar to the quote process on our website, doesn’t it?  Well, the main difference is, within my simulation model, 
 customers are the one who’s driving and taking all the controls.  In the simulation model, they will be more proactive and interactive.  I want the 
@@ -94,22 +94,22 @@ This is how it works.  First, customers need to set up the driver, vehicle and e
 
 (Note that all the input items required here are actually the features in my models.)
 
-![Alt Image text](Data/simulation model 2.jpg)
+![Alt Image text](Data/simulation_2.jpg)
 
 For example, James, a 31 year old man living in 60612, driving a 2009 Chevrolet Tahoe, has setted up the environment that mirrors most of his days.
 
-![Alt Image text](Data/simulation model 3.jpg)
+![Alt Image text](Data/simulation_3.jpg)
 
 Down the road, if an accident happens. Within the simulation model, I could predict the damage to his vehicle based on the real data from the past.  
 Meanwhile, I will also plug in some resources and  information to pre-educate customers what to do in the situation.
 
 (Note the predicted damage is the target(y) in my models.)
 
-![Alt Image text](Data/simulation model 4.jpg)
+![Alt Image text](Data/simulation_4.jpg)
 
 As a result, my model generates the prediction that James’ predicted damage is $501 and more, with 91.7% accuracy.
 
-![Alt Image text](Data/simulation model 5.jpg)
+![Alt Image text](Data/simulation_5.jpg)
 
 Now with knowing the predicted damage, it will be easier for James to decide how to customize his own insurance package, considering his risk appetite 
 and preference.  Is he more aggressive or more conservative with taking on uncertainties?  If James is willing to pay up to 500 out of pocket to fix 
@@ -119,12 +119,12 @@ his car, and he knows the predicted damage is more than 500, then, for sure, $50
 
 ![Alt Image text](Data/conclusion.jpg)
 
-#### Conclusion
+### Conclusion
 Within my simulation model, customers will be able to insert their real life and personal risk appetite into insurance quote process.  They would feel 
 they finally have the power and control because their input matters.  The simulation model will be the action we take to respond to the promise we make 
 to our customers by telling them “only pay what you need!”
 
-#### Behind the senses 
+### Behind the senses 
 Lastly, I want to touch on what’s behind the senses and what more I want to accomplish.
 
 Area: right now, the simulation model is only suitable for customers in Chicago. I would love to make it national.
