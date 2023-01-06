@@ -1,4 +1,6 @@
-## Hold!!  I ended up taking a very different approach for this project so this README is going to be very different from the usual ones.  
+# Mutual Fund Insurance Brainstorming Month Proposal 2023
+
+### Hold!!  I ended up taking a very different approach for this project so this README is going to be very different from the usual ones.  
 
 Becuase the innovative approach I am taking, this prject is devided into 2 parts.
 First part is my presentation which is recorded in this README below.  My presentation will explain the background and give you a quick view of my vision. 
