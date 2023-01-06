@@ -32,6 +32,7 @@ of my presentation.
 ## 1. Intro: Brainstorming Month Proposal 2023
 
 (pic)
+![Alt Image text](Data/intro.jpg)
 
 Liberty Mutual is celebrating the company's traditional event in January, Brainstorming Month, to gather and explore new ideas of how to make the company better 
 in any way.
