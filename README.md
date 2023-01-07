@@ -2,13 +2,16 @@
 
 ### Hold!!  I ended up taking a very different approach for this project so this README is going to be very different from the usual ones.  
 
-Becuase the innovative approach I am taking, this prject is devided into 2 parts.
-First part is my presentation which is recorded in this README below.  My presentation will explain the background and give you a quick view of my vision. 
+Becuase the approach I am taking, this prject is devided into 2 parts.
+First part is my presentation which is recorded in this README below.  My presentation will explain my idea and background I designed, which shall give the a 
+quick view of my vision. 
 Second part is the workflow how I handel and process the data and models.  This part is journaled in the notebooks.
 
-# The process of my thinking and the turns  
+# The turns of my thinking and  
 
-First, I followed the CRIPS-DM as I always do and setted up the goal to find the best model of predicting the target, ‘DAMAGE’.  Then I jumped into the data, 
+First, I followed the CRIPS-DM as I always do and setted up the goal to find the best model of predicting the target, ‘DAMAGE’.  I thought this would be good
+enough. My first idea was, this model could help Auto insurance with calaculing their premium.  
+Then I jumped into the data, 
 models and all the hoops and loops, which are all well noted in the notebooks. 
 
 After I finished the workflow and got my best model, I started to prepare for my presentation.  I kept thinking, thinking and more thinking.  How can I make my 
