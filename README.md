@@ -2,27 +2,49 @@
 
 ### Hold!!  I ended up taking a very different approach for this project so this README is going to be very different from the usual ones.  
 
-Becuase the approach I am taking, this prject is devided into 2 parts.
-First part is my presentation which is recorded in this README below.  My presentation will explain my idea and background I designed, which shall give the a 
-quick view of my vision. 
-Second part is the workflow how I handel and process the data and models.  This part is journaled in the notebooks.
+Because of the very different approach I am taking, this project is divided into 2 parts.
+First part is my presentation which is entered in this README below.  My presentation will explain my idea and the background I designed, which shall give 
+a quick view of my vision. 
+Second part is the workflow of how I handle and process the data and models.  This part is journaled in the notebooks.
 
 # The turns of my thinking and  
 
-First, I followed the CRIPS-DM as I always do and setted up the goal to find the best model of predicting the target, ‘DAMAGE’.  I thought this would be good
-enough. My first idea was, this model could help Auto insurance with calaculing their premium.  
-Then I jumped into the data, 
-models and all the hoops and loops, which are all well noted in the notebooks. 
+First, I followed the CRIPS-DM process as I always do and setted up the goal to find the best model of predicting the target, ‘DAMAGE’.  I thought this 
+would be good enough. My first idea was, this model could help Auto insurance companies with calculating their premium.  
+Then I jumped into the data, models and all the hoops and loops, which are all well noted in the notebooks.
+
+![Alt Image text](Data/crisp.jpg)
 
 After I finished the workflow and got my best model, I started to prepare for my presentation.  I kept thinking, thinking and more thinking.  How can I make my 
-models useful and meaningful to the business?  How can I wrap the models and business in a stronger and nicer way?
-While all those questions were buzzing in my head, I didn’t slow down on editing my slides.  I looked into some insurance companies' websites to see how they 
-provide quotes.  Surprisingly, they looked so similar and simple.  And this got me an idea!
+models useful and meaningful to the business?  How can I wrap the model and business in a stronger and nicer form?
+While all those questions were buzzing in my head, I started on editing my slides for presentation.  I looked into some major insurance companies' websites to 
+see how they provide quotes nowadays.  Surprisingly, they looked so similar and simple.  And this got me an idea!
 
-# The inspiration
+![Alt Image text](Data/webpages.jpg)
+
+# The inspiration and innovation!
 
 I was inspired by the similarity of insurance companies’ websites and how they provide quotes to customers.  I finally found where I can start the blueprint 
-of my presentation.
+of my presentation.  With my background and experience in Risk Management, Insurance, Banking and Finance, I do understand the difficulties and challenges a 
+company is facing.  Despite all the other agendas, the first and biggest challenge for a company is how to expand their customer quantity.  How to win more 
+new customers and securing the existing customers has always been the number 1 topic in any company meetings.  So, this got me thinking.  They all need and 
+want new customers, how can their websites look all the same?  Besides making and buying more commercials, and keeping saying they can help with saving on 
+premiums by switching, what else can they do for customers?  No one is doing anything that’s different that could make them stand out in the crowd. They need 
+and can do better!
+
+Taking the advantage of the knowledge I have in the insurance industry, I am aware that insurance can make uncertainty into certainty by taking on a large 
+number of observations.  There are plenty of subjects that can be addressed or discussed how insurance takes on and handles risks.  However, I can only stay 
+on the course here focusing on my project. To the individuals, buying auto insurance is a must because the law and regulation suggests so.  No one really 
+wishes to make a claim if they don’t need to.  Because that would mean something unfortunate had happened.  Buying insurance is more like “gambling” to 
+individuals.  It is very much like I always struggle with how much I should put into my FSA account because I don’t know how much I will actually need in 
+self-paid medical expenses next year.  Wouldn’t it be nice if I can have a prediction of my cost if something happens next year?  That would get me a real 
+feeling of how I should re-allocate the money in the pocket.
+
+That’s it!!!  Since my model can predict the DAMAGE, if auto insurance companies can provide this information to their customers that would help the customers 
+with their decision making on choosing the right deductible and packages.  This would be an innovative offer from auto insurance companies to their customers!
+
+
+### Following are the slides of my presentation which will give you a brief view of the full structure of my idea. 
 
 # Outlines
 1. Intro: Brainstorming Month Proposal 2023
