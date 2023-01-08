@@ -161,4 +161,4 @@ claim data.  Then my simulation model can make predictions more precisely and sp
 Corss-working: To conduct this proposal into a real project, I will be leading my team and cross working with the animation design, app developing, and customer relationship teams.
 
 
-### For the data and models, plese see the [main notebook].(../blob/main/main.ipynb)
+### For the data and models, plese see the [main notebook](../blob/main/main.ipynb)
