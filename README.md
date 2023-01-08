@@ -14,6 +14,7 @@ would be good enough. My first idea was, this model could help Auto insurance co
 Then I jumped into the data, models and all the hoops and loops, which are all well noted in the notebooks.
 
 ![Alt Image text](Data/crisp.jpg)
+[Resource link](https://www.datascience-pm.com/crisp-dm-2/)
 
 After I finished the workflow and got my best model, I started to prepare for my presentation.  I kept thinking, thinking and more thinking.  How can I make my 
 models useful and meaningful to the business?  How can I wrap the model and business in a stronger and nicer form?
